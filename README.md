@@ -8,7 +8,7 @@ I was hired upon my return to Colombia at a local startup that developed account
 My main duties involved developing java code on the server side to transfer data to and from databases. 
 I worked as java back-end developer for Globant. My assignments have included projects for multiple international clients.
 I worked on developing chatbot platforms that connect to dialogflow or rasa to interact with users. 
-Now working as a software engineer for Epam.
+Worked as a software engineer for Epam. Currently working as a Senior Java developer for Globant
 
 <!---
 carlospalmaroldan/carlospalmaroldan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
